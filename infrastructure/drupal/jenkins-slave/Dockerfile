@@ -1,7 +1,7 @@
 # Purpose: Execute Drupal related tasks for Continuous Integration Services
 # Dockerfile instructions: https://docs.docker.com/engine/reference/builder/
 
-FROM ubuntu
+FROM ubuntu:14.04
 MAINTAINER chico.russell@gmail.com  @ https://github.com/mael5trom
 
 LABEL "com.webteks.ci"="Web Teks"
