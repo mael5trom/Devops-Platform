@@ -5,11 +5,12 @@ Environment:
   Ubuntu 14.04
 
 Included tools:
-  1. [Jenkins](https://jenkins.io/)
-  2. [SonarQube](http://www.sonarqube.org/)
-  3. [Cachet](https://cachethq.io/)
-  4. [ReviewBoard](https://www.reviewboard.org/)
-  5. [Kalabox](https://kalabox.io)
+  1. [Jenkins](https://jenkins.io/) - Job Management
+  2. [SonarQube](http://www.sonarqube.org/) - Quality Assuarance Testing and Coding Dashboard
+  3. [Cachet](https://cachethq.io/) - Up / Down / Notification System
+  4. [ReviewBoard](https://www.reviewboard.org/) - Code review and Lifecycle documentation
+  5. [Kalabox](https://kalabox.io) - Local Development and Automated Testing Environment
+  6. [Collins](http://tumblr.github.io/collins/index.html) - Configuration Management Database
 
 
 Local Client Installation Requirements
