@@ -8,7 +8,7 @@ LABEL "com.webteks.ci"="Web Teks"
 LABEL version="1.0"
 LABEL description="This container is a base implementation of tools for \
 executing Drupal tasks requested from Jenkins.  It will contain all \
-required installations to that only commands are necessary."
+required packages."
 
 RUN apt-get update 
 RUN apt-get install -y --no-install-recommends \
