@@ -13,7 +13,7 @@ required installations to that only commands are necessary."
 RUN apt-get update 
 RUN apt-get install -y --no-install-recommends \
 		openssh-server \
-		openjdk-7-jdk \
+		default-jdk \
 	&& rm -rf /var/lib/apt/lists/*
 RUN mkdir /var/run/sshd
 RUN useradd -u 1000 jenkins | chpasswd
