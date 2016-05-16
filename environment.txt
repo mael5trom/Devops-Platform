@@ -1,0 +1,2 @@
+JENKINS_SERVER="http://ci.webtekshosting.com:8080/computer/Docker_Slaves/slave-agent.jnlp"
+
